@@ -1,0 +1,33 @@
+﻿
+/* common */
+html, body, img, form {margin: 0px; padding: 0px; border: none;}
+html, body {height:100%;}
+body {background-color:#fff;}
+body, td {font: 14px Arial, sans-serif; color: #000;}
+a {color: #000;	text-decoration: underline;}
+a:hover {text-decoration: none;}
+table {border: 0px; border-collapse: collapse;}
+td {vertical-align: top;}
+p {padding: 0px; margin: 0px 0px 12px 0px;}
+object {outline:none;}
+
+h1 {font-size:22px; padding: 0px; margin: 0px 0px 10px 0px;}
+h2 {font-size:17px; padding: 0px; margin: 0px 0px 10px 0px;}
+h3 {font-size:15px; padding: 0px; margin: 0px 0px 10px 0px;}
+
+.main-cont {width:950px; margin:0 auto; min-height:100%; background-color:#eee;}
+
+/* header */
+.header {height:90px; background-color: #455; box-shadow: 0px 3px 11px #000000;}
+.header-b {padding:25px; text-align:center;}
+.header h1 {font-size:24px; color:#ddd; margin:0; padding:0;}
+/*body */
+.body-text {border:dashed 2px #a9ad87; -moz-border-radius: 0px; 
+-webkit-border-radius: 0px; border-radius: 0px;
+box-shadow: 0px 3px 11px #000000;}
+.body-text-b {padding:3px; text-align:left;}
+
+/* copyrights */
+.copyrights {padding:15px; color:#000; text-align: center;}
+
+
